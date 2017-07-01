@@ -1,12 +1,12 @@
 # Predix Python Tutorial
 Introductory Python tutorial series for users with no previous Python or coding expierence. The series introduces learners to Python basics, and how to use this language to get started with GE's data analysis software platform, Predix.
 
-More about Predix: https://www.ge.com/digital/predix
+More about Predix: https://www.ge.com/digital/predix /n
 More about Python: https://www.python.org/
 
 ## Content
 The series is split into 5 main parts, as listed below:
-I.    Expierence Python
+I.    Expierence Python \n
 II.   Basic Operations
 III.  Defining Functions
 IV.   File I/O
