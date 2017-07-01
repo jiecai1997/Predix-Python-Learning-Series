@@ -3,3 +3,14 @@ Introductory Python tutorial series for users with no previous Python or coding 
 
 More about Predix: https://www.ge.com/digital/predix
 More about Python: https://www.python.org/
+
+## Content
+The series is split into 5 main parts, as listed below:
+I.    Expierence Python
+II.   Basic Operations
+III.  Defining Functions
+IV.   File I/O
+V.    Modules
+VI.   Deploy Python to Predix
+
+Each section contains a PPT and a .py starter code. Some sections include additional files.
