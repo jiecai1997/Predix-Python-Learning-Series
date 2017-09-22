@@ -6,6 +6,7 @@ More about Predix: https://www.ge.com/digital/predix
 
 More about Python: https://www.python.org/
 
+The powerpoints used in office presentations have official GE watermarks, but have been removed in this github upload to privacy reasons.
 
 ## Content
 The series is split into 6 main sections, which are intended to be seperate hands-on teaching sessions lasting around 60-90 minutes each. All sections contain a PPT and a .py starter code, whilst some sections include additional files. The six sections are listed below:
@@ -15,5 +16,3 @@ The series is split into 6 main sections, which are intended to be seperate hand
 #### IV.   File I/O
 #### V.    Modules
 #### VI.   Deploy Python to Predix
-
-
